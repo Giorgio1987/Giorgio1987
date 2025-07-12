@@ -3,7 +3,7 @@ Hola! Soy Jorge 👋
 
 💻 Sobre mí
 
-Soy Analista Programador con conocimientos en Python, .NET, PHP, HTML, CSS y JavaScript. Actualmente, estoy profundizando en ciberseguridad y trabajando en proyectos de desarrollo web y administración de sistemas.
+Soy Analista Sistemas con conocimientos en Python, .NET, PHP, HTML, CSS y JavaScript. Actualmente, estoy profundizando en ciberseguridad y trabajando en proyectos de desarrollo web y administración de sistemas.
 
 Me apasiona la tecnología, la programación y la seguridad informática. También tengo experiencia en máquinas virtuales, redes y servidores.
 
